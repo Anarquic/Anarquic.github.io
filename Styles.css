@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #87CEEB, #E0F7FA);
+    touch-action: manipulation;
+}
+
+/* Animaciones y estilos completos... */
